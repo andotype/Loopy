@@ -6,4 +6,4 @@ Loopy captures a kind of bubbly lettershapes that are familiar from comics, stic
 
 Systematically irregular, with sometimes looping outlines, Loopy is happily ignorant about logic or typographic etiquette.
 
-I designed Loopy in 2023 while working for the design agency Kid id (https://kidid.se/). Many thanks to my former colleagues who provided helpful feedback.
+Loopy was designed by me, Anders Wikström, in 2023 while working for the design agency Kid id (https://kidid.se/). Many thanks to my former colleagues who provided helpful feedback.
